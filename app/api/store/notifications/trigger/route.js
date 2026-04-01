@@ -1,3 +1,4 @@
+export const dynamic = "force-dynamic";
 import { NextResponse } from 'next/server';
 import connectDB from '@/lib/db.js';
 import Notification from '@/models/Notification.js';

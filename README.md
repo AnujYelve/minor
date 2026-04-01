@@ -149,7 +149,7 @@ After seeding, you can use these credentials:
 ### Store Owner 2
 - **Email**: store2@library.com
 - **Username**: storeowner2
-- **Password**: store123
+- **Password**:   
 
 ### Test User
 - **Email**: user@library.com
